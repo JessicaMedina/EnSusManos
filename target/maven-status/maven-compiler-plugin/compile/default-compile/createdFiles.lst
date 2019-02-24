@@ -1,0 +1,7 @@
+com\helloworld\apispring\controller\PeliculaServicio.class
+com\helloworld\apispring\controller\InitConfiguration.class
+com\helloworld\apispring\controller\EjemploServcio.class
+com\helloworld\apispring\controller\Pelicula.class
+com\helloworld\apispring\controller\Controller.class
+com\helloworld\apispring\controller\CORSFilter.class
+com\helloworld\apispring\controller\RestInitializer.class
